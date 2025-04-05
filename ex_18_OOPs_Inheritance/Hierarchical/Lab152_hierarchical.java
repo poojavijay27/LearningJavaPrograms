@@ -20,6 +20,7 @@ public class Lab152_hierarchical
 }
 
 
+
 class Father{
     void home(){
         System.out.println("3BHK");
